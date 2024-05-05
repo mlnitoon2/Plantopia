@@ -1,0 +1,8 @@
+tutorial_line-1=First of all. Lets go to the shop and purchase your first seed.\
+tutorial_line-2=Hmmm. Seems like there is only one available. You can unlock more once you reach higher levels!
+tutorial_line-3=Tap the seeds package and then tap purchase!
+tutorial_line-4=Now that you have your pot and your seeds, place the pot down, then plant the seed!
+tutorial_line-5=Now, lets water it. Looks like you already have a watering can. It's rusty, but it will still work! (You can get better watering cans when you level up!)
+tutorial_line-6=
+tutorial_line-7=
+tutorial_line-8=
